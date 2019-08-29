@@ -1,0 +1,11 @@
+# Line-specific results
+
+SSSS
+
+```{r, echo=FALSE, results='asis'}
+for (i in 1:10) {
+  params <- list(line = sprintf("%d (tram)", i))
+  cat(knitr::knit_child("_Test_i.Rmd", quiet = TRUE))
+}
+```
+
