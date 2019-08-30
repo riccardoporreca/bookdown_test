@@ -1,5 +1,5 @@
 --- 
-title: "Test bookdown deployment"
+title: "Test bookdown deployment - V2"
 author: "Mirai Solutions"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
