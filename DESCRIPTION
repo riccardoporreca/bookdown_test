@@ -1,5 +1,6 @@
 Package: placeholder
 Type: Book
+URL: https://github.com/riccardoporreca/bookdown_test
 Title: Does not matter.
 Version: 0.0.1
 Imports: bookdown
